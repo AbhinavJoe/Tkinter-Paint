@@ -1,3 +1,3 @@
 # Python-Tkinter-Paint-App
 
-This is a basic paint application made using the Tkinter module in Python in which, you can draw by dragging the mouse on the canvas and increase or decrease the brush size with the mousewheel.
+This repository contains a simple paint application built using Tkinter, a Python GUI library. The paint app allows users to draw on the canvas using a brush tool, and the brush size can be adjusted using the mouse wheel. To run the application, ensure you have Python installed on your machine. Clone the repository, navigate to the project directory, and execute the `python paint_app.py` command. Contributions are welcome.
